@@ -14,11 +14,7 @@ https://gruchalski.com/assets/posts/2022-08-28/header.png
 
 <br>
 
-
-### 📊 Github Stats
-<a href='https://github.com/jtcarvalho/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/jtcarvalho/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/jtcarvalho/github-stats-transparent/output/generated/languages.svg)
+
 
 </a>
