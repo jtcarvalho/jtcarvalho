@@ -8,6 +8,10 @@ I'm an oceanographer interested in the physical phenomena that occur between the
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:jtcarvalho@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jonas-takeo-carvalho-b3761022/)
+[<img src=""https://img.shields.io/badge/ORCID-Logo-brightgreen?logo=orcid
+>](https://orcid.org/my-orcid?orcid=0000-0002-1225-3457)
+
+
 
 <br>
 
