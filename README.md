@@ -24,5 +24,5 @@ I'm an oceanographer interested in the physical phenomena that occur between the
   <img align="left" src="https://cdn.rawgit.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png" alt="bash" height="42px"/> 
 </a> 
 <a href="https://fortran-lang.org/" target="_blank"> 
-  <img align="left" src="https://fortran-lang.org/assets/img/fortran-logo.png" alt="Fortran" height="42px"/> 
+  <img align="left" src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran" height="42px"/> 
 </a>
