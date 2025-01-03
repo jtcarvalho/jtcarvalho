@@ -1,4 +1,4 @@
-[jtcarvalho_header](https://github.com/jtcarvalho/jtcarvalho/blob/main/files/forGitHub-capa.png)
+![jtcarvalho_header](https://github.com/jtcarvalho/jtcarvalho/blob/main/files/forGitHub-capa.png)
 ### Hi !👋
 
 I'm an oceanographer interested in the physical phenomena that occur between the interaction of ocean, ice and atmosphere. I work mainly with numerical modelling and data analyses. I'm also interested in software development and data science.
