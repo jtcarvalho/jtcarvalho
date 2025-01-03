@@ -8,13 +8,10 @@ I'm an oceanographer interested in the physical phenomena that occur between the
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:jtcarvalho@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jonas-takeo-carvalho-b3761022/)
 [<img src="https://img.shields.io/badge/ORCID-Logo-brightgreen">](https://orcid.org/my-orcid?orcid=0000-0002-1225-3457)
-
 <br>
 [<img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white">](https://join.skype.com/invite/jtcarvalho_oceano)
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/jtcarvalho5994)
 
-
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank">
@@ -29,10 +26,3 @@ I'm an oceanographer interested in the physical phenomena that occur between the
 <a href="https://fortran-lang.org/" target="_blank"> 
   <img align="left" src="https://fortran-lang.org/assets/img/fortran-logo.png" alt="Fortran" height="42px"/> 
 </a>
-<a href="https://www.skype.com" target="_blank">
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Skype_logo.svg" alt="Skype" height="42px"/>
-</a>
-<a href="https://discord.com" target="_blank">
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" alt="Discord" height="42px"/>
-</a>
-
