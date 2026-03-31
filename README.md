@@ -19,7 +19,10 @@ I'm an oceanographer interested in the physical phenomena that occur between the
 </a>
 <a href="https://www.tensorflow.org" target="_blank"> 
   <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> 
-</a> 
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img align="left" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="42px"/>
+</a>
 <a target="_blank"> 
   <img align="left" src="https://cdn.rawgit.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png" alt="bash" height="42px"/> 
 </a> 
